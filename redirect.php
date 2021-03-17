@@ -2,7 +2,7 @@
 <html>
 <head>
    <meta http-equiv="refresh" 
-   content="0; url=http://site.com/home/">
+   content="0; url=https://youtube.com/">
 </head>
 <body>
 </body>
